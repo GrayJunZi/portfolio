@@ -6,13 +6,13 @@
     "animated_main_label": "developer",
     "animated_secondary_initial_label": "software",
     "animated_secondary_final_label": "fullstack",
-    "image": "/pfp.jpeg",
+    "image": "/grayjunzi.png",
     "email": "grayjunzi@gmail.com",
     "url": "https://grayjunzi-portfolio.netlify.app",
     "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
     "theme": "platinum",
     "location": {
-      "address": "Shanghai",
+      "address": "Putuo",
       "city": "Shanghai",
       "countryCode": "CN",
       "region": "China"
@@ -22,8 +22,8 @@
         "network": "X / Twitter",
         "icon": "ri:twitter-fill",
         "color": "#1DA1F2",
-        "username": "@anmolthedev",
-        "url": "https://x.com/anmolthedev"
+        "username": "@grayjunzi",
+        "url": "https://x.com/"
       },
       {
         "network": "GitHub",
@@ -324,7 +324,7 @@
     "CanvasAPI": "mdi:draw",
     "HTML5": "simple-icons:html5"
   },
-  "url": "https://particlefx.anmol.pro"
+  "url": "https://particlefx.grayjunzi-portfolio.netlify.app"
 },
     {
       "name": "Social Media WebApp",
@@ -387,7 +387,7 @@
         "Rest-Api": "mdi:api"
       },
       "github": "https://github.com/Anmol-TheDev/Music_app",
-      "url": "https://music.anmol.pro"
+      "url": "https://music.grayjunzi-portfolio.netlify.app"
     },
     {
       "name": "Stone-Su-man",
