@@ -1,21 +1,21 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Anmol Singh",
+    "name": "GrayJunZi",
     "label": "Software Developer",
     "animated_main_label": "developer",
     "animated_secondary_initial_label": "software",
     "animated_secondary_final_label": "fullstack",
     "image": "/pfp.jpeg",
-    "email": "anmolsingh51200@gmail.com",
-    "url": "https://anmol.pro",
+    "email": "grayjunzi@gmail.com",
+    "url": "https://grayjunzi-portfolio.netlify.app",
     "summary": "Full Stack developer with experience building and deploying production-ready web apps in freelance teams. Delivered two client websites and worked closely with teams to create scalable, maintainable solutions.",
     "theme": "platinum",
     "location": {
-      "address": "Panipat",
-      "city": "Haryana",
-      "countryCode": "IN",
-      "region": "India"
+      "address": "Shanghai",
+      "city": "Shanghai",
+      "countryCode": "CN",
+      "region": "China"
     },
     "profiles": [
       {
@@ -29,22 +29,22 @@
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
-        "username": "Anmol-TheDev",
-        "url": "https://github.com/Anmol-TheDev"
+        "username": "GrayJunZi",
+        "url": "https://github.com/GrayJunZi"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
         "color": "#D44638",
-        "username": "anmolsingh",
-        "url": "mailto:anmolsingh51200@gmail.com"
+        "username": "GrayJunZi",
+        "url": "mailto:grayjunzi@gmail.com"
       },
       {
         "network": "GitHub Stars",
         "icon": "ri:star-line",
         "color": "#FBBC05",
         "username": "Star on GitHub",
-        "url": "https://github.com/Anmol-TheDev/potfolio2.0"
+        "url": "https://github.com/GrayJunZi/portfolio"
       }
     ]
   },
